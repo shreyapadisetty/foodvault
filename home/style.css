@@ -1,3 +1,12 @@
 body {
   background-color:#69a490;
 }
+
+div {
+  background-color: #69a490;
+  width: 300px;
+  border: 5px #ffcc9d;
+  padding: 50px;
+  margin: auto;
+  border-radius: 8px;
+}
