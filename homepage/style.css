@@ -9,6 +9,12 @@ h1 {
     padding-top:100px;
 }
 
+.box {
+  width: 500px;
+  padding: 50px;
+  margin: auto;
+}
+
 .login {
   background-color: #ffcc9d;
   border: none;
@@ -28,7 +34,7 @@ h1 {
   background-color: #69a490;
   border: 2px solid #a1cfba;
   border: none;
-  color: #69a490;
+  color: #a1cfba;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
