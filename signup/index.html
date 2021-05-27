@@ -3,10 +3,26 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
-    <title>Profile</title>
+    <title>Sign Up</title>
   </head>
   <body>
-    <h1>Profile</h1>
-
+    <h1>Sign Up</h1>
+    <div>
+      <form>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name">
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email">
+        <label for="uname">Username</label>
+        <input type="text" id="uname" name="username">
+        <label for="pass">Password</label>
+        <input type="text" id="pass" name="pass">
+        <label for="pass">Retype Password</label>
+        <input type="text" id="pass" name="pass2">
+      </form>
+      <form method="get" action="/foodvault/home/">
+        <button class="enter">Enter</button>
+      </form>
+    </div>
   </body>
 </html>
