@@ -10,9 +10,10 @@ h1 {
 }
 
 .box {
-  width: 500px;
-  padding: 50px;
-  margin: auto;
+padding: 1.5em 0;
+				width: 28%;
+				float: left;
+				margin: 1%;
 }
 
 .login {
