@@ -1,14 +1,23 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
     <title>Home</title>
+    <link rel="stylesheet" href="http://javascriptbook.com/code/c05/css/c05.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <div>
-      
+    <div id="page">
+      <h1 id="header">List</h1>
+      <h2>Food at Home</h2>
+      <ul id="todo">
+        <li id="one" class="hot">Water</li>
+        <li id="two" class="hot">Apples</li>
+        <li id="three" class="hot">Tomatoes</li>
+        <li id="four">Flour</li>
+      </ul>
     </div>
-
+    <input type="text" id="items">
+    <button id="btnAddElement" onclick="addItem();">Add new item</button>
+   <script src="script.js"></script>
   </body>
 </html>
