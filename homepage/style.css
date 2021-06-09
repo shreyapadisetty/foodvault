@@ -13,14 +13,14 @@ h1 {
 padding: 1.5em 0;
 width: 28%;
 float: left;
-margin: 33%;
+margin-left: 33%;
 }
 
 .box {
 padding: 1.5em 0;
 width: 28%;
 float: left;
-margin: 5%;
+margin-left: 5%;
 }
 
 .login {
