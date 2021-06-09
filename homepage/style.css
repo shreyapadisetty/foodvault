@@ -11,9 +11,16 @@ h1 {
 
 .box {
 padding: 1.5em 0;
-				width: 28%;
-				float: left;
-				margin: 33%;
+width: 28%;
+float: left;
+margin: 33%;
+}
+
+.box {
+padding: 1.5em 0;
+width: 28%;
+float: left;
+margin: 5%;
 }
 
 .login {
