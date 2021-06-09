@@ -13,7 +13,7 @@ h1 {
 padding: 1.5em 0;
 width: 28%;
 float: left;
-margin-left: 33%;
+margin-left: 27%;
 }
 
 .box2 {
@@ -39,10 +39,10 @@ margin-left: 5%;
 }
 
 .signup {
-  background-color: #69a490;
+  background-color: #a1cfba;
   border: 2px solid #a1cfba;
   border: none;
-  color: #a1cfba;
+  color: #69a490;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
